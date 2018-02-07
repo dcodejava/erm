@@ -4,6 +4,10 @@ Developed this comprehensive Web Application - (ERM) System from scratch during 
 
 Designed a centralized MySQL database satisfying BCNF Normalization.  Privileges for a user is divided into three categories i.e. Superadmin, Admin & Employee.  It has submodules such as automated attendance recorder that is implemented by scanning the network through Nmap, Employee performance analyzer, Project monitoring system, leave management system and an Internal Chat System implemented by using AJAX.
 
+# Views
+
+## Superadmin (SA), Admin(A) and Employee(E)
+
 ## Features
 ### 1. Login Registration
 ### 2. User Profile (SA, A, E)
@@ -24,9 +28,7 @@ Designed a centralized MySQL database satisfying BCNF Normalization.  Privileges
 # Tools/Technologies Used: 
 MySQL, PHP, Bootstrap, AJAX, Javascript, JQuery.
 
-# Views
 
-## Superadmin (SA), Admin(A) and Employee(E)
 
 
 
