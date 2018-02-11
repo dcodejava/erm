@@ -1,6 +1,6 @@
 # Employee Resource Management (ERM) System
 
-Illustrated Readme with Web Applications Images.
+#### Illustrated Readme with Web Applications Snapshorts.
 
 Developed this comprehensive Web Application - (ERM) System from scratch during my intership at Memozin Pvt Ltd: https://www.ememozin.com/
 
@@ -34,23 +34,31 @@ MySQL, PHP, Bootstrap, AJAX, Javascript, JQuery.
 ![alt text](https://raw.githubusercontent.com/newtein/erm/master/UI_Images/FireShot%20Capture%20004%20-%20Kiosk%20-%20http___localhost_memozin_.png)
 ## Superadmin Panel (SA)
 ![alt text](https://raw.githubusercontent.com/newtein/erm/master/UI_Images/FireShot%20Capture%20005%20-%20Kiosk%20-%20http___localhost_memozin_.png)
+
 ## Set Goals, Create Projects for Employees (SA)
 ![alt text](https://raw.githubusercontent.com/newtein/erm/master/UI_Images/FireShot%20Capture%20006%20-%20%20-%20http___localhost_memozin_setgoals.png)
-![alt text](https://raw.githubusercontent.com/newtein/erm/master/UI_Images/FireShot%20Capture%20007%20-%20%20-%20http___localhost_memozin_setgoals.php.png)
+
+## Assign Employees to a Project based upon their designation (SA)
+
 ![alt text](https://raw.githubusercontent.com/newtein/erm/master/UI_Images/FireShot%20Capture%20008%20-%20%20-%20http___localhost_memozin_setgoals.php.png)
-## Assign Employees to a Project/Task based upon their designation (SA)
+
+
+## Assign task to Employees (SA)
 ![alt text](https://raw.githubusercontent.com/newtein/erm/master/UI_Images/FireShot%20Capture%20009%20-%20%20-%20http___localhost_memozin_assigntask.png)
-## User Profile (SA, A, E)
+
+## Personal Profile (SA, A, E)
 ![alt text](https://raw.githubusercontent.com/newtein/erm/master/UI_Images/FireShot%20Capture%20010%20-%20%20-%20http___localhost_memozin_user_profile.png)
-## Employee Details (SA, A)
+## Peer Employees Detail (SA, A)
 ![alt text](https://raw.githubusercontent.com/newtein/erm/master/UI_Images/FireShot%20Capture%20012%20-%20%20-%20http___localhost_memozin_empdetail.png)
-## Employee Assessment (SA, A)
-![alt text](https://raw.githubusercontent.com/newtein/erm/master/UI_Images/FireShot%20Capture%20013%20-%20%20-%20http___localhost_memozin_EmpAssmt.png)
+## Employee Performance Assessment (SA, A)
+
 ![alt text](https://raw.githubusercontent.com/newtein/erm/master/UI_Images/FireShot%20Capture%20014%20-%20%20-%20http___localhost_memozin_EmpAssmt.png)
 ## Admin Panel (A)
+### New Employee Registration - General Form (1/3)(A)
 ![alt text](https://raw.githubusercontent.com/newtein/erm/master/UI_Images/FireShot%20Capture%20015%20-%20%20-%20http___localhost_memozin_adminpanel.png)
-## New Employee Registration (A)
+### New Employee Registration - Qualifications Form (2/3)(A)
 ![alt text](https://raw.githubusercontent.com/newtein/erm/master/UI_Images/FireShot%20Capture%20016%20-%20%20-%20http___localhost_memozin_adminpanel.png)
+### New Employee Registration - Experience Form (3/3) (A)
 ![alt text](https://raw.githubusercontent.com/newtein/erm/master/UI_Images/FireShot%20Capture%20017%20-%20%20-%20http___localhost_memozin_adminpanel.png)
 ## Employee Projects (SA, A, E)
 ![alt text](https://raw.githubusercontent.com/newtein/erm/master/UI_Images/FireShot%20Capture%20018%20-%20%20-%20http___localhost_memozin_myprojects.png)
