@@ -38,7 +38,7 @@ MySQL, PHP, Bootstrap, AJAX, Javascript, JQuery.
 ## Set Goals, Create Projects for Employees (SA)
 ![alt text](https://raw.githubusercontent.com/newtein/erm/master/UI_Images/FireShot%20Capture%20006%20-%20%20-%20http___localhost_memozin_setgoals.png)
 
-## Assign Employees to a Project based upon their designation (SA)
+## Assign Project to a Employees based upon their designation (SA)
 
 ![alt text](https://raw.githubusercontent.com/newtein/erm/master/UI_Images/FireShot%20Capture%20008%20-%20%20-%20http___localhost_memozin_setgoals.php.png)
 
@@ -49,6 +49,8 @@ MySQL, PHP, Bootstrap, AJAX, Javascript, JQuery.
 ## Personal Profile (SA, A, E)
 ![alt text](https://raw.githubusercontent.com/newtein/erm/master/UI_Images/FireShot%20Capture%20010%20-%20%20-%20http___localhost_memozin_user_profile.png)
 ## Peer Employees Detail (SA, A)
+
+![alt text](https://raw.githubusercontent.com/newtein/erm/master/UI_Images/FireShot%20Capture%20011%20-%20%20-%20http___localhost_memozin_empdetail.png)
 ![alt text](https://raw.githubusercontent.com/newtein/erm/master/UI_Images/FireShot%20Capture%20012%20-%20%20-%20http___localhost_memozin_empdetail.png)
 ## Employee Performance Assessment (SA, A)
 
@@ -60,15 +62,21 @@ MySQL, PHP, Bootstrap, AJAX, Javascript, JQuery.
 ![alt text](https://raw.githubusercontent.com/newtein/erm/master/UI_Images/FireShot%20Capture%20016%20-%20%20-%20http___localhost_memozin_adminpanel.png)
 ### New Employee Registration - Experience Form (3/3) (A)
 ![alt text](https://raw.githubusercontent.com/newtein/erm/master/UI_Images/FireShot%20Capture%20017%20-%20%20-%20http___localhost_memozin_adminpanel.png)
-## Employee Projects (SA, A, E)
+
+## Employee Panel
+## Employee Projects (E)
 ![alt text](https://raw.githubusercontent.com/newtein/erm/master/UI_Images/FireShot%20Capture%20018%20-%20%20-%20http___localhost_memozin_myprojects.png)
+## Project-Task Details (Read only) (E)
 ![alt text](https://raw.githubusercontent.com/newtein/erm/master/UI_Images/FireShot%20Capture%20020%20-%20%20-%20http___localhost_memozin_myprojects.png)
+## Task Updates(Chat) History - AJAX (E)
 ![alt text](https://raw.githubusercontent.com/newtein/erm/master/UI_Images/FireShot%20Capture%20021%20-%20%20-%20http___localhost_memozin_myprojects.png)
+## New Update (E)
 ![alt text](https://raw.githubusercontent.com/newtein/erm/master/UI_Images/FireShot%20Capture%20022%20-%20%20-%20http___localhost_memozin_myprojects.png)
+## Edit Task - Bill, Transfer etc (E)
 ![alt text](https://raw.githubusercontent.com/newtein/erm/master/UI_Images/FireShot%20Capture%20023%20-%20%20-%20http___localhost_memozin_myprojects.png)
+## Realtime instant Notifications (SA, A, E)
 ![alt text](https://raw.githubusercontent.com/newtein/erm/master/UI_Images/FireShot%20Capture%20024%20-%20%20-%20http___localhost_memozin_myprojects.png)
 
-![alt text](https://raw.githubusercontent.com/newtein/erm/master/UI_Images/FireShot%20Capture%20011%20-%20%20-%20http___localhost_memozin_empdetail.png)
 
 
 
