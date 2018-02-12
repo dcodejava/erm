@@ -1,6 +1,6 @@
 # Employee Resource Management (ERM) System
 
-#### Illustrated Readme with Web Applications Snapshorts.
+#### Illustrated Readme with Snapshots of implemented Web-Application.
 
 Developed this comprehensive Web Application - (ERM) System from scratch during my intership at Memozin Pvt Ltd: https://www.ememozin.com/
 
