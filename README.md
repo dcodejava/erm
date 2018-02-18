@@ -1,6 +1,6 @@
 # Employee Resource Management (ERM) System
 
-#### Illustrative Readme with Snapshots of implemented Web-Application.
+#### Published web-page is available <a href="https://newtein.github.io/erm/"> here </a>.
 
 Developed this comprehensive Web Application - (ERM) System from scratch during my intership at Memozin Pvt Ltd: https://www.ememozin.com/
 
